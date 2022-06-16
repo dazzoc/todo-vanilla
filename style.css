@@ -13,11 +13,15 @@ body {
 }
 
 header {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    margin-top: 9rem;
+}
+
+form {
+    margin-bottom: 2rem;
 }
 
 header, form {
-    min-height: 20vh;
     display: flex;
     justify-content: center;
     align-items: center;
