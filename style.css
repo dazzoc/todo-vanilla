@@ -50,7 +50,7 @@ form button:hover {
 }
 
 .todo-list {
-    min-width: 393px;
+    min-width: 568px;
     list-style: none;
 }
 
@@ -109,7 +109,7 @@ select {
 }
 
 .select {
-    margin: 1rem;
+    margin-left: 1rem;
     position: relative;
     overflow: hidden;
 }
